@@ -38,3 +38,7 @@ It is the back end of a website that uses express, sequalize and Mysql.
 # INSTALL
 
 you will need Node.js, MySQL, Sequelize packages. you will need to run NPM I to install dependecies, .ENV to use environment to hide passwords, and you will need an application that can test your routes.
+
+# WALKTHROUGH
+
+[![walkthrough](./assets/ORM-E-Commerce-Back-End-%201.webm)]
