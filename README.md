@@ -41,4 +41,5 @@ you will need Node.js, MySQL, Sequelize packages. you will need to run NPM I to 
 
 # WALKTHROUGH
 
-[![walkthrough](./assets/ORM-E-Commerce-Back-End-%201.webm)]
+
+[ORM-E-Commerce-Back-End- 1.webm](https://user-images.githubusercontent.com/114950127/216783900-3a4a0248-125c-406e-9845-cd56e37cfd88.webm)
